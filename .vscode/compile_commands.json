@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/Users/gkann/Projects/gpu-fft",
+  "arguments": ["/usr/bin/clang", "-c", "-Qunused-arguments", "-std=c++20", "-DUSE_STL_LIB", "-o", "build/.objs/GPU-FFT-0.0.1/macosx/arm64/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
